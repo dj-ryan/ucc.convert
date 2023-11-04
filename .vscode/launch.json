@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "runtimeExecutable": "/home/davidryan/.local/share/flatpak/app/com.microsoft.Edge/x86_64/stable/12b2554d79deb8b768bb7c6ed88bfe329b238c3d7b04d30b166808f078118cb3/export/bin/com.microsoft.Edge",
+            "runtimeExecutable": "/home/davidryan/.local/share/flatpak/app/com.microsoft.Edge/x86_64/stable/f6c3aaa4d1b2d816c05b2e72c06c60a3741c22b06f1fb44374bfb722712ad838/export/bin/com.microsoft.Edge",
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
