@@ -1,0 +1,60 @@
+/* <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- <link rel="stylesheet" href="https://ssl.gstatic.com/docs/script/css/add-ons.css"> --> */
+
+
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .container {
+        text-align: center;
+    }
+
+    .input-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .input-field {
+        margin: 10px;
+        padding: 10px;
+        font-size: 20px;
+        border: 2px solid #2196F3;
+        border-radius: 5px;
+    }
+
+    .conversion-button {
+        margin: 10px;
+        padding: 10px 20px;
+        font-size: 20px;
+        background-color: #2196F3;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /* Change background color to yellow */
+    #toggleButton {
+        background-color: goldenrod;
+    }
+
+    #result {
+        font-family: 'Roboto', sans-serif;
+        font-size: 24px;
+        margin: 10px;
+    }
+
+    .material-heading {
+    font-family: 'Roboto', sans-serif; /* Google's Material Font */
+    font-size: 36px; /* Adjust the font size as needed */
+    text-align: center; /* Center the text */
+    margin: 10px 0; /* Add some margin for spacing */
+}
